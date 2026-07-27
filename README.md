@@ -1,4 +1,4 @@
-# Hi there, I'm [Tên Của Bạn] 👋
+# Hi there, I'm Bach 👋
 
 <div align="center">
 
