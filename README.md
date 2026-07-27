@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Typing Effect Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%40quocanh10+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Web+Developer;Student+from+UET-VNU+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%40bachnguyen04+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Web+Developer;Student+from+UET-VNU+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,7 +27,7 @@
 * 🔭 **Current Focus:** Working in the field of **Web Development** (Full-Stack).
 * 🌸 **Interests:** Exploring new technologies, cloud architectures, and cross-border tech solutions.
 * 💬 **Get in Touch:** Open to discussing new opportunities, web development projects, or collaborations!
-* 📫 **Contact Email:** [anhquoc10.tvt@gmail.com](mailto:anhquoc10.tvt@gmail.com)
+* 📫 **Contact Email:** [bachtramtinh04@gmail.com](mailto:anhquoc10.tvt@gmail.com)
 
 ---
 
