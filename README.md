@@ -67,26 +67,24 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quocanh10&theme=radical&show_icons=true&hide_border=false" alt="Quoc Anh's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocanh10&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BachNguyen02122004&theme=radical&show_icons=true&hide_border=false" alt="Bach Nguyen's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BachNguyen02122004&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quocanh10&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BachNguyen02122004&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   👀 <b>Profile Views:</b> <br/>
-  <img src="https://visitcount.itsvg.in/api?id=quocanh10&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=BachNguyen02122004&icon=0&color=0" alt="Visitor Count" />
 </div>
